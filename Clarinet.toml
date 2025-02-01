@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/recipe-nft.clar"
 depends_on = []
 
+[contracts.tips]
+path = "contracts/tips.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
